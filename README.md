@@ -26,3 +26,4 @@ Versions used :-
   
   <img src = "Pic4.png" height=500>
 
+(Download node_modules in lottery file to use this application in your own device)
